@@ -13,6 +13,7 @@
 > 🌱 I’m currently learning ..
 - MongoDB
 - Linux Programming Constructs
+- Django
 
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
