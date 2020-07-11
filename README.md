@@ -20,15 +20,15 @@
 - Full-stack Development
 - Software Development, Training and Consulting
 
-> 🤔 I’m looking to work with ...
+> 🤔 I’m looking to work with ..
 - IT industries
 - SDE team
 
-> 💬 Ask me about ...
+> 💬 Ask me about ..
 - Computer Science and Engineering
 - Web Development
 
-> 📫 How to reach me: ...
+> 📫 How to reach me ..
 - [Linkedin](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
