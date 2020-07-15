@@ -32,3 +32,5 @@
 - [Linkedin](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
+
+![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif)
