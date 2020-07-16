@@ -36,5 +36,5 @@
 - [Github](https://github.com/sanchit2107)
 
 <p align="center">
-  <img width="760" height="500" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+  <img width="460" height="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 </p>
