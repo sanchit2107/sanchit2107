@@ -3,6 +3,8 @@
 **sanchit2107/sanchit2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif)
+
 :pushpin: Here are some idea about my profile and work:
 
 > :man_technologist: I’m currently working on ..
@@ -32,5 +34,3 @@
 - [Linkedin](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
-
-![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif)
