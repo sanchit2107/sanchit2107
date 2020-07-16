@@ -7,12 +7,12 @@
 
 :pushpin: Here are some idea about my profile and work:
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanchit2107&&show_icons=true&title_color=6d92f7&icon_color=1cbaeb&text_color=ffffff&bg_color=242424" />
+
 > :man_technologist: I’m currently working on ..
 - Java and Spring Boot
 - Angular and REST API
 - Google Cloud Platform
-
-[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
 
 > 🌱 I’m currently learning ..
 - MongoDB
@@ -27,6 +27,8 @@
 > 🤔 I’m looking to work with ..
 - IT industries
 - SDE team
+
+[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
 
 > 💬 Ask me about ..
 - Computer Science and Engineering
