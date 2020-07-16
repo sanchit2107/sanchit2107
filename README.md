@@ -12,6 +12,8 @@
 - Angular and REST API
 - Google Cloud Platform
 
+[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
+
 > 🌱 I’m currently learning ..
 - MongoDB
 - Linux Programming Constructs
@@ -34,7 +36,3 @@
 - [Linkedin](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
-
-<p align="center">
-  <img width="460" height="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
-</p>
