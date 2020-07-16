@@ -19,6 +19,8 @@
 - Linux Programming Constructs
 - Django
 
+[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
+
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
 - Full-stack Development
@@ -27,8 +29,6 @@
 > 🤔 I’m looking to work with ..
 - IT industries
 - SDE team
-
-[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
 
 > 💬 Ask me about ..
 - Computer Science and Engineering
