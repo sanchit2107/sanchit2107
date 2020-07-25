@@ -7,7 +7,7 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanchit2107&&show_icons=true&title_color=6d92f7&icon_color=1cbaeb&text_color=ffffff&bg_color=242424" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanchit2107&&show_icons=true&title_color=6d92f7&icon_color=1cbaeb&text_color=000000&bg_color=ffffff" />
 
 > :man_technologist: I’m currently working on ..
 - Java and Spring Boot
