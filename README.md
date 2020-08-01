@@ -37,6 +37,6 @@
 - Web Development
 
 > 📫 How to reach me ..
-[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="5%">](https://www.linkedin.com/in/sanchit21/)
+- [Linkedin](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
