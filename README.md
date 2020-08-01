@@ -7,8 +7,6 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7e2fc55989429.599c07a92222a.gif" align="right" width="50%" />](https://sanchit2107.herokuapp.com/)
-
 > :man_technologist: I’m currently working on ..
 - Java and Spring Boot
 - Angular and REST API
@@ -18,6 +16,8 @@
 - MongoDB
 - Linux Programming Constructs
 - Django
+
+[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7e2fc55989429.599c07a92222a.gif" align="right" width="50%" />](https://sanchit2107.herokuapp.com/)
 
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
