@@ -7,9 +7,7 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-<div align="right" style="width: 50%">
-	
-</div>
+[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7e2fc55989429.599c07a92222a.gif" align="right" width="50%" />](https://sanchit2107.herokuapp.com/)
 
 > :man_technologist: I’m currently working on ..
 - Java and Spring Boot
@@ -20,8 +18,6 @@
 - MongoDB
 - Linux Programming Constructs
 - Django
-
-[<img align="right" width="50%" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />](https://sanchit2107.herokuapp.com/)
 
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
