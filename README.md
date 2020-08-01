@@ -7,7 +7,9 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanchit2107&&show_icons=true&title_color=6d92f7&icon_color=1cbaeb&text_color=000000&bg_color=ffffff" />
+<div align="right" style="width: 50%">
+	
+</div>
 
 > :man_technologist: I’m currently working on ..
 - Java and Spring Boot
@@ -35,6 +37,6 @@
 - Web Development
 
 > 📫 How to reach me ..
-- [Linkedin](https://www.linkedin.com/in/sanchit21/)
+- [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="20%">](https://www.linkedin.com/in/sanchit21/)
 - [Website](https://sanchit2107.herokuapp.com/)
 - [Github](https://github.com/sanchit2107)
