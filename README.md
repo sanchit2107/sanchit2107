@@ -7,7 +7,7 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-> :man_technologist: I’m currently working on ..
+> :man_technologist: I’m currently working on ...
 - Java and Spring Boot
 - Angular and REST API
 - Google Cloud Platform
