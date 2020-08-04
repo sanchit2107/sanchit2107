@@ -7,7 +7,7 @@
 
 :pushpin: Here are some idea about my profile and work:
 
-<img src="https://teaminternetsolutions.com/wp-content/uploads/2015/04/responsive-animation.gif" align="right" width="50%" />
+<img src="https://teaminternetsolutions.com/wp-content/uploads/2015/04/responsive-animation.gif" align="right" width="50%" height="20%"/>
 
 > :man_technologist: I’m currently working on ...
 - Java and Spring Boot
