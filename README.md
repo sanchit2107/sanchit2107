@@ -7,6 +7,8 @@
 
 :pushpin: Here are some idea about my profile and work:
 
+<img src="https://inizsoft.com/wp-content/uploads/2020/01/website-min.gif" align="right" width="50%" />
+
 > :man_technologist: I’m currently working on ...
 - Java and Spring Boot
 - Angular and REST API
